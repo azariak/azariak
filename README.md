@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Welcome to my Github profile!
 
-![image](https://github.com/azariak/azariak/assets/20154709/c27ef4b8-8ad6-453f-98ee-36477f7b4baa)
+![image](https://github.com/azariak/azariak/assets/20154709/c27ef4b8-8ad6-453f-98ee-36477f7b4baa | width=100)
 
 
 📫 How to reach me: azaria.kelman@mail.utoronto.ca
