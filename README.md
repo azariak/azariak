@@ -1,8 +1,8 @@
-## Hi there 👋
-### Welcome to my Github profile!
+# Hi there 👋
+## Welcome to my Github profile!
 
-📫 How to reach me: azaria.kelman@mail.utoronto.ca
-🔭 I’m currently working on [WikiSurfer](https://azariak.github.io/WikiSurfer/)
+#### 📫 How to reach me: azaria.kelman@mail.utoronto.ca
+#### 🔭 I’m currently working on [WikiSurfer](https://azariak.github.io/WikiSurfer/)
 
 <img src='https://github.com/azariak/azariak/assets/20154709/c27ef4b8-8ad6-453f-98ee-36477f7b4baa' width='450'>
 
