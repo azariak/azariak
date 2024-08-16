@@ -3,6 +3,7 @@
 
 #### 📫 How to reach me: azaria.kelman@mail.utoronto.ca
 #### 🔭 I’m currently working on [WikiSurfer](https://azariak.github.io/WikiSurfer/)
+#### ♟️ Hoping to contribute [further](https://github.com/lichess-org/lila/issues/15907) to Lichess in the future. 
 
 <!-- <img src='https://github.com/azariak/azariak/assets/20154709/c27ef4b8-8ad6-453f-98ee-36477f7b4baa' width='550'> -->
 
