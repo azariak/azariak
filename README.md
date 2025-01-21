@@ -1,6 +1,7 @@
 # Hi there 👋
 ## Welcome to my Github profile!
 
+#### 🌐 Visit my website at [azariak.com](https://www.azariak.com/)
 #### 📫 How to reach me: azaria.kelman@mail.utoronto.ca
 #### 🔭 I’m currently working on [TutorFlowAI](https://www.tutorflowai.com/) and [PathToMagnus](https://azariak.github.io/PathToMagnus/)
 #### ♟️ Hoping to contribute [further](https://github.com/lichess-org/lila/issues/15907) to Lichess in the future. 
