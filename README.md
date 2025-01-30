@@ -3,7 +3,7 @@
 
 #### 🌐 Visit my website at [azariak.com](https://www.azariak.com/)
 #### 📫 How to reach me: azaria.kelman@mail.utoronto.ca
-#### 🔭 I’m currently working on [TutorFlowAI](https://www.tutorflowai.com/) and [PathToMagnus](https://azariak.github.io/PathToMagnus/)
+#### 🔭 I’m currently working on [TutorFlowAI](https://www.tutorflowai.com/)
 #### ♟️ Hoping to contribute [further](https://github.com/lichess-org/lila/issues/15907) to Lichess in the future. 
 
 <!-- <img src='https://github.com/azariak/azariak/assets/20154709/c27ef4b8-8ad6-453f-98ee-36477f7b4baa' width='550'> -->
